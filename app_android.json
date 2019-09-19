@@ -9,17 +9,21 @@
     "updateContent":"修复内存泄露问题\n下载地址 https://www.lanzous.com/b932237",
     "betaCode":"16f4c3b35eb22c168506c2e8a7565c4b",
     "extraList":[
-    	{
-    		"title":"哔咔3.0",
-    		"link":"http://1t.click/apev"
-    	},
-    	{
-    		"title":"下载地址",
-    		"link":"https://www.lanzous.com/b743927"
-    	},
         {
-            "title":"内测码 190819",
-            "link":"http://1t.click/apgv"
+            "title":"哔咔3.0",
+            "link":"http://note.youdao.com/noteshare?id=293df5faff9aca17ac10e8a22d555445"
+        },
+        {
+            "title":"下载地址",
+            "link":"https://www.lanzous.com/b743927"
+        },
+        {
+            "title":"E绅士里站免账号",
+            "link":"http://note.youdao.com/noteshare?id=797d2e90ba13912c4269045fc89ebf70"
+        },
+        {
+            "title":"Iwara动画MMD",
+            "link":"http://note.youdao.com/noteshare?id=4b07b9725bbffb7be12d9a24f0373ab4"
         },
     	{
     		"title":"QQ群 970222959",
@@ -41,9 +45,9 @@
             "title":"土豆群",
             "link":"https://noone.ltd/ExView"
         },
-    	{
-    		"title":"捐赠",
-    		"link":"http://t.cn/RG11bie"
-    	}  	
+        {
+            "title":"捐赠",
+            "link":"http://note.youdao.com/noteshare?id=ce12858dbbe7bff8add637365fd6849d"
+        }  
     ]
 }
