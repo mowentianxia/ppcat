@@ -2,7 +2,7 @@
     "version":"Demo190922",
     "versionCode":190922,
     "forceVersion":190922,
-    "ruleVersion":1909240,
+    "ruleVersion":1909260,
     "ruleContent":"修复1个失效来源",
     "ruleUrl":"https://dev.tencent.com/u/gentle/p/datas/git/raw/master/reader4exview/mhyd_sources.json",
     "updateUrl":"https://www.lanzous.com/b932237",
