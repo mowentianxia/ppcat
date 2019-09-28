@@ -1,12 +1,12 @@
 {
-    "version":"Demo190926",
-    "versionCode":190926,
+    "version":"Demo190928",
+    "versionCode":190928,
     "forceVersion":190926,
     "ruleVersion":1909270,
     "ruleContent":"修复4个失效来源",
     "ruleUrl":"https://dev.tencent.com/u/gentle/p/datas/git/raw/master/reader4exview/mhyd_sources.json",
     "updateUrl":"https://www.lanzous.com/b932237",
-    "updateContent":"修复一些小问题,减小体积\n下载地址 https://www.lanzous.com/b932237",
+    "updateContent":"修复一些搜索问题，美化界面图标图案，减小体积\n下载地址 https://www.lanzous.com/b932237",
     "betaCode":"16f4c3b35eb22c168506c2e8a7565c4b",
     "extraList":[
         {
