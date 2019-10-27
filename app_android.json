@@ -1,12 +1,12 @@
 {
-    "version":"Demo191018",
-    "versionCode":191018,
+    "version":"Demo191027",
+    "versionCode":191027,
     "forceVersion":190926,
     "ruleVersion":1910270,
     "ruleContent":"修复1个失效来源",
     "ruleUrl":"https://dev.tencent.com/u/gentle/p/datas/git/raw/master/reader4exview/mhyd_sources.json",
     "updateUrl":"https://www.lanzous.com/b932237",
-    "updateContent":"1.优化界面\n2.修复若干问题\n下载地址 https://www.lanzous.com/b932237",
+    "updateContent":"1.分段漫画自动动态加载\n2.默认显示状态栏\n3.修复若干问题\n下载地址 https://www.lanzous.com/b932237",
     "betaCode":"6ada00ed78c49accd61acfd7f08763ad",
     "extraList":[
         {
