@@ -1,12 +1,12 @@
 {
-    "version":"Demo191105",
-    "versionCode":191105,
+    "version":"Demo191111",
+    "versionCode":191111,
     "forceVersion":190926,
     "ruleVersion":1911100,
     "ruleContent":"修复1个失效来源",
     "ruleUrl":"https://dev.tencent.com/u/gentle/p/datas/git/raw/master/reader4exview/mhyd_sources.json",
     "updateUrl":"https://www.lanzous.com/b932237",
-    "updateContent":"1.增加通过网址打开漫画\n2.升级解析引擎\n3.修复若干问题\n下载地址 https://www.lanzous.com/b932237",
+    "updateContent":"增加针对64位CPU的支持\n下载地址 https://www.lanzous.com/b932237",
     "betaCode":"6ada00ed78c49accd61acfd7f08763ad",
     "extraList":[
         {
@@ -39,15 +39,15 @@
         },        
         {
             "title":"QQ群 970222959",
-            "link":"https://jq.qq.com/?_wv=1027&k=5SIhgmD"
+            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3Dnu7Al3_xEuYlzyFtvUUUtgSxZWe7sKv8%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D"
         },
         {
             "title":"QQ群 591859003",
-            "link":"https://jq.qq.com/?_wv=1027&k=5GtT0XZ"
+            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DPUN5FZcJ0G9zBbnNiNB-UAp28N4FiiAp%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D"
         },
         {
             "title":"QQ群 588751182",
-            "link":"https://jq.qq.com/?_wv=1027&k=5y022t5"
+            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3D9XF4XQfqQlPx7TX8Ok5gbHAQjRKdPue3%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D"
         },
         {
             "title":"电报群（强烈推荐！）",
