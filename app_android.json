@@ -1,13 +1,13 @@
 {
-    "version":"Demo191111",
-    "versionCode":191111,
+    "version":"191115",
+    "versionCode":191115,
     "forceVersion":190926,
-    "ruleVersion":1911100,
-    "ruleContent":"修复1个失效来源",
+    "ruleVersion":1911150,
+    "ruleContent":"修复3个失效来源",
     "ruleUrl":"https://dev.tencent.com/u/gentle/p/datas/git/raw/master/reader4exview/mhyd_sources.json",
     "updateUrl":"https://www.lanzous.com/b932237",
-    "updateContent":"1.提高APP安全性\n2.修复一些bug\n下载地址 https://www.lanzous.com/b932237",
-    "betaCode":"6ada00ed78c49accd61acfd7f08763ad",
+    "updateContent":"1.增加收藏备份和恢复功能\n2.针对全面屏优化\n3.提高APP安全性\n4.修复一些bug\n下载地址 https://www.lanzous.com/b932237",
+    "betaCode":"10502a7492b55c4c6aefc058a8959107",
     "extraList":[
         {
             "title":"苹果版和PC版下载地址",
