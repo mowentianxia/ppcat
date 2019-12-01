@@ -1,12 +1,12 @@
 {
-    "version":"191128",
-    "versionCode":191128,
+    "version":"191201",
+    "versionCode":191201,
     "forceVersion":190926,
     "ruleVersion":1911301,
     "ruleContent":"修复17个失效来源",
     "ruleUrl":"https://dev.tencent.com/u/gentle/p/datas/git/raw/master/reader4exview/mhyd_sources.json",
     "updateUrl":"https://www.lanzous.com/b932237",
-    "updateContent":"1.优化内存回收\n2.增加阅读器默认设置\n3.解决蛤为机子音量键翻页问题\n4.解决一些机子的界面问题\n5.修复一些bug\nPS.如果你无法正常更新，可能你的是被篡改的盗版APP,请卸载后安装正版APP!\n下载地址 https://www.lanzous.com/b932237",
+    "updateContent":"1.优化内存回收\n2.增加大图分割模式\n3.增加双页分屏模式\n4.增加自动追更选项\n5.增加加载原图选项\n6.修复一些bug\nPS.如果你无法正常更新，可能你的是被篡改的盗版APP,请卸载后安装正版APP!\n下载地址 https://www.lanzous.com/b932237",
     "betaCode":"10502a7492b55c4c6aefc058a8959107",
     "extraList":[
         {
@@ -14,7 +14,7 @@
             "link":"https://apps.apple.com/cn/app/id1487839029"
         },
         {
-            "title":"全平台完整版（安卓、苹果、Windows、Mac）",
+            "title":"免越狱苹果版和桌面版全平台完整版（安卓、苹果、Windows、Mac）",
             "link":"https://www.lanzous.com/b743927"
         },
         {
@@ -66,7 +66,7 @@
             "link":"https://noone.ltd/ExView"
         },
         {
-            "title":"所有内容均来源于互联网",
+            "title":"所有内容均来源于互联网，请多多推广支持！",
             "link":""
         }        
     ]
