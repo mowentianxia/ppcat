@@ -1,7 +1,7 @@
 {
     "version":"0.1.6",
     "versionCode":191204,
-    "forceVersion":191122,
+    "forceVersion":190926,
     "ruleVersion":1912060,
     "ruleContent":"修复14个失效来源",
     "ruleUrl":"https://dev.tencent.com/u/gentle/p/datas/git/raw/master/reader4exview/mhyd_sources.json",
