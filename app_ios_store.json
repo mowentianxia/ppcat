@@ -1,6 +1,6 @@
 {
-    "version":"0.1.6",
-    "versionCode":191204,
+    "version":"191111",
+    "versionCode":191111,
     "forceVersion":190926,
     "ruleVersion":1912060,
     "ruleContent":"修复14个失效来源",
