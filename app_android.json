@@ -1,12 +1,12 @@
 {
-    "version":"0.1.6",
-    "versionCode":191204,
+    "version":"0.1.7",
+    "versionCode":191208,
     "forceVersion":190926,
     "ruleVersion":1912062,
     "ruleContent":"修复22个失效来源",
     "ruleUrl":"https://dev.tencent.com/u/gentle/p/datas/git/raw/master/reader4exview/mhyd_sources.json",
-    "updateUrl":"https://www.lanzous.com/b932237",
-    "updateContent":"1.优化内存回收\n2.增加大图分割模式\n3.增加双页分屏模式\n4.增加自动追更选项\n5.增加加载原图选项\n6.完善缓存功能\n升级搜索引擎\n7.修复一些bug\nPS.如果你无法正常更新，可能你的是被篡改的盗版APP,请卸载后安装正版APP!\n下载地址 https://www.lanzous.com/b932237",
+    "updateUrl":"https://545c.com/dir/923436-36523760-2c1fce",
+    "updateContent":"1.添加作者标签查找相关作品\n2.添加类型标签查找相关作品\n3.修复双页分屏有时无法加载下一章的问题\n4.加快启动速度，解析速度提高\n5.修复若干小问题\nPS.如果你无法正常更新，可能你的是被篡改的盗版APP,请卸载后安装正版APP!\n下载地址 https://www.lanzous.com/b932237",
     "betaCode":"10502a7492b55c4c6aefc058a8959107",
     "extraList":[
         {
@@ -14,7 +14,7 @@
             "link":"https://apps.apple.com/cn/app/id1487839029"
         },
         {
-            "title":"免越狱苹果版和桌面版全平台完整版（安卓、苹果、Windows、Mac）",
+            "title":"全平台完整版（安卓、苹果、Windows、Mac）",
             "link":"https://www.lanzous.com/b743927"
         },
         {
