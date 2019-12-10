@@ -50,6 +50,10 @@
             "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3Dnu7Al3_xEuYlzyFtvUUUtgSxZWe7sKv8%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D"
         },
         {
+            "title":"QQ群 536120573",
+            "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fjq.qq.com%2F%3F_wv%3D1027%26k%3D5so7i1x"
+        },
+        {
             "title":"QQ群 591859003",
             "link":"mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DPUN5FZcJ0G9zBbnNiNB-UAp28N4FiiAp%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D"
         },
