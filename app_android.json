@@ -1,12 +1,12 @@
 {
-    "version":"0.1.7",
-    "versionCode":191208,
+    "version":"0.2.0",
+    "versionCode":191212,
     "forceVersion":191111,
     "ruleVersion":1912080,
     "ruleContent":"修复1个失效来源",
     "ruleUrl":"https://dev.tencent.com/u/gentle/p/datas/git/raw/master/reader4exview/mhyd_sources.json",
     "updateUrl":"https://545c.com/dir/923436-36523760-2c1fce",
-    "updateContent":"1.添加作者标签查找相关作品\n2.添加类型标签查找相关作品\n3.修复双页分屏有时无法加载下一章的问题\n4.加快启动速度，解析速度提高\n5.修复若干小问题\nPS.如果你无法正常更新，可能你的是被篡改的盗版APP,请卸载后安装正版APP!\n下载地址 https://www.lanzous.com/b932237",
+    "updateContent":"1.加入标签管理\n2.加入人工智障推荐漫画\n3.优化搜索功能\n4.修复若干小问题\nPS.如果你无法正常更新，可能你的是被篡改的盗版APP,请卸载后安装正版APP!\n下载地址 https://www.lanzous.com/b932237",
     "betaCode":"899e1e1529454eadf385338100521bb8",
     "extraList":[
         {
