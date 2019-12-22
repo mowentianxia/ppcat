@@ -1,6 +1,6 @@
 {
-    "version":"0.1.8",
-    "versionCode":191210,
+    "version":"0.2.0",
+    "versionCode":191212,
     "forceVersion":191111,
     "ruleVersion":1912212,
     "ruleContent":"修复4个失效规则",
