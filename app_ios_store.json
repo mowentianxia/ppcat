@@ -2,7 +2,7 @@
     "version":"0.2.6",
     "versionCode":200110,
     "forceVersion":191225,
-    "ruleVersion":2001080,
+    "ruleVersion":2001100,
     "ruleContent":"修复1个失效规则",
     "ruleUrl":"https://gentle.coding.net/p/datas/d/datas/git/raw/master/reader4exview/mhyd_sources.json",
     "updateUrl":"https://apps.apple.com/cn/app/id1487839029",
